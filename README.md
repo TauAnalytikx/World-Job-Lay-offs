@@ -9,6 +9,8 @@
 - 3. Null values or blank values
 - 4. Remove any unnecessary columns
 
+### SQL : [CLICK HERE](https://github.com/TauAnalytikx/World-Job-Lay-offs/blob/main/Layoffs%20Data%20Cleaning.sql)
+
 # Tools I Used
 For my deep dive into the world of layoffs, I harnessed the power of several key tools:
 
@@ -18,7 +20,7 @@ For my deep dive into the world of layoffs, I harnessed the power of several key
 - **GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 
 # Data Cleaning
-Each query for this project aimed at investigating specific aspects of the world job lay-offs. Here’s how I approached each question:
+Each query for this project aimed to investigate specific aspects of world job lay-offs. Here’s how I approached each question:
 
 (i). Create a data_staging table to clean the dataset and remove duplicates
 
